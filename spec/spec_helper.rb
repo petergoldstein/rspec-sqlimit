@@ -1,4 +1,3 @@
-require "pry"
 require "rspec-sqlimit"
 require "database_cleaner"
 
